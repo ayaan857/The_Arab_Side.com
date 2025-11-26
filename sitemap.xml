@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://YOUR_SITE.github.io/index.html</loc>
+        <loc>https://the-arab-side.com/index.html</loc>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://YOUR_SITE.github.io/blog.html</loc>
+        <loc>https://the-arab-side.com/blog.html</loc>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://YOUR_SITE.github.io/info.html</loc>
+        <loc>https://the-arab-side.com/info.html</loc>
         <priority>0.8</priority>
     </url>
 </urlset>
